@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Practica 1 - Punto 1</string>
+    <string name="titulo">Formulario de Inscripción</string>
+    <string name="nombre">Nombre:</string>
+    <string name="correo">Correo electrónico:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="contrasenax2">Repetir Contraseña:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbies">Seleccione sus Hobbies</string>
+    <string name="bicicleta">Montar en bicicleta</string>
+    <string name="futbol">Jugar fútbol</string>
+    <string name="guitarra">Tocar guitarra</string>
+    <string name="saltar">Practicar bungee jumping</string>
+    <string name="guardar">Guardar</string>
+    <string name="lugar">Ciudad de nacimiento</string>
+    <string name="fecha_nacimiento">MM/dd/yyyy</string>
+    <string name="fecha_nacimiento_lb">Fecha de Nacimiento</string>
+
+    <string-array name="ciudades">
+        <item>Bogotá</item>
+        <item>Medellín</item>
+        <item>Pereira</item>
+        <item>Manizales</item>
+        <item>Bucaramanga</item>
+    </string-array>
+
+</resources>
